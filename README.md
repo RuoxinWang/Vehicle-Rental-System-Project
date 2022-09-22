@@ -1,4 +1,4 @@
 # Vehicle-Rental-System-Project
 
-Project Detail is located in the pdf file
-Implement code is located in the sql file
+1. Project Detail is located in the pdf file
+2. Implement code is located in the sql file
